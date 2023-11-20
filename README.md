@@ -24,7 +24,7 @@ C:\xampp\htdocs\
 - Open Xamp Control Panel. Click on Start button near Apache and MySQL.
 - Open browser type the following into search bar.
 ```
-http://localhost/Sparks-Foundation/firsttime.php
+http://localhost/Bank/index.php
 ```
 - If everything works fine you would see this on your browser.
 ```
@@ -41,11 +41,11 @@ Transaction Table Created Successfully.
 - Make Sure XAMP is active with Apache and MySQL Server Enabled.
 - Open Browser Enter the following URL:
 ```
-http://localhost/Sparks-Foundation/
+http://localhost/Bank/
 ```
 OR
 ```
-http://localhost/Sparks-Foundation/index.php
+http://localhost/Bank/index.php
 ```
 - You will land to Homepage of Money Bank Website.
 - Click On `View all Customer` from Navigation OR `Get Started` button for viewing detail of all Customers.
